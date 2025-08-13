@@ -78,7 +78,7 @@ It is ideal for administrators performing maintenance on Splunk SOAR environment
 git clone https://github.com/N0rdicSec/soar.git
 cd soar
 
-# Make script executable
+# Rename the script for easy usage. Make the script executable
 chmod +x "Splunk SOAR Update.sh"
 
 # Run the script
