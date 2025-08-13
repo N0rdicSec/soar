@@ -1,4 +1,4 @@
-# Splunk SOAR Update Script for Red Hat
+# Splunk SOAR Update Script for Red Hat ![Red Hat](https://img.shields.io/badge/OS-Red%20Hat-red?style=for-the-badge&logo=redhat&logoColor=white)
 
 [![Bash](https://img.shields.io/badge/language-Bash-orange)](https://www.gnu.org/software/bash/)
 ![text](https://img.shields.io/badge/SplunkSOAR-Update-blue)
