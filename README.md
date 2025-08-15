@@ -3,7 +3,7 @@
 [![Bash](https://img.shields.io/badge/language-Bash-orange)](https://www.gnu.org/software/bash/)
 ![text](https://img.shields.io/badge/SplunkSOAR-Update-blue)
 
-> **Last update:** 30/01/2024
+> **Last script updates:** 30/01/2024
 > 
 > **Source:** [Splunk SOAR On-Premises Upgrade Docs (6.3.1)](https://docs.splunk.com/Documentation/SOARonprem/6.3.1/Install/PrepareSystemForUpgrading)
 
